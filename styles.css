@@ -22,7 +22,7 @@ body {
     color: #ddd;
     cursor: pointer;
     transition: color 0.2s;
-    -webkit-text-stroke: 1px black; /* ✅ Чёрная обводка */
+    -webkit-text-stroke: 1px black;
 }
 
 .rating label::before {
